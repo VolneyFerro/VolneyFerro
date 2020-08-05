@@ -1,16 +1,16 @@
-### Hi there 👋
+<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
 
-<!--
-**VolneyFerro/VolneyFerro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Volney Ferro
+
+## Olá pessoal 👋
+
+Sou apaixonado por programação portanto, pretendo ser um Fullstatck Developer. :computer:
+
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games e sou formado pela Fatec-tq
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-VolneyFerro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/volney-ferro-0bb53248/)](https://www.linkedin.com/in/volney-ferro-0bb53248/) 
+| 
+[![Gmail Badge](https://img.shields.io/badge/-volneyferro@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:volneyferro@gmail.com)](mailto:tgmarinho@gmail.com)
